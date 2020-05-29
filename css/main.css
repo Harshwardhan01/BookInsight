@@ -261,7 +261,7 @@ blockquote:before {
 blockquote p {
    font-family: "metropolis-medium", sans-serif;
    padding: 0;
-   font-size: 2.1rem;
+   font-size: 1.7rem;
    line-height: 1.857;
    color: #000000;
 }
