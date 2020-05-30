@@ -431,14 +431,14 @@ body[data-aos-delay='550'] [data-aos] {
    transition-delay: 0;
 }
 
-[data-aos][data-aos][data-aos-delay='550'].aos-animate,
-body[data-aos-delay='550'] [data-aos].aos-animate {
-   transition-delay: .55s;
+[data-aos][data-aos][data-aos-delay='350'].aos-animate,
+body[data-aos-delay='350'] [data-aos].aos-animate {
+   transition-delay: .35s;
 }
 
 [data-aos][data-aos][data-aos-duration='600'],
 body[data-aos-duration='600'] [data-aos] {
-   transition-duration: .6s;
+   transition-duration: .3s;
 }
 
 [data-aos][data-aos][data-aos-delay='600'],
